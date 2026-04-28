@@ -20,7 +20,6 @@
 ### 🚀 Проекты и активность
 *   **[Spaceship Titanic](https://github.com/V1NCHES/Spaceship_Titanic)** — Решение задачи классификации на Kaggle (CatBoost + SHAP).
 *   **Solver L-flat problem** — Численный решатель для задач механики сплошных сред (совместно с Муравлевой Л.В.).
-*   **Neurotech Implementation** — Разработка дорожной карты и реализации в области нейротехнологий.
 
 ---
 

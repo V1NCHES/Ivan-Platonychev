@@ -19,18 +19,13 @@
 
 ### 🚀 Проекты и активность
 *   **[Spaceship Titanic](https://github.com/V1NCHES/Spaceship_Titanic)** — Решение задачи классификации на Kaggle (CatBoost + SHAP).
-*   **Solver L-flat problem** — Численный решатель для задач механики сплошных сред (совместно с Муравлевой Л.В.).
+*   **[Численное моделирование вязкопластичной жидкости для сложных областей](https://github.com/V1NCHES/Solver_L_flat_problem)** — Разработка численного решателя для задач механики сплошных сред (совместно с Муравлевой Л.В.).
 
 ---
 
 ### 📈 Статистика GitHub
 ![Ivan's GitHub stats](https://github-readme-stats.vercel.app/api?username=V1NCHES&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=V1NCHES&layout=compact&theme=radical)
-
----
-
-### 👀 Активность в профиле (Hits)
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FV1NCHES%2FIvan-Platonychev&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=views&edge_flat=false)
 
 ---
 

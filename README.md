@@ -36,6 +36,6 @@
 ---
 
 ### 📫 Как со мной связаться
-*   **Telegram:** [@V1NCHES](https://t.me/V1NCHES) (или ваш актуальный контакт)
-*   **Email:** i.platonychev@example.com (замените на свой)
+*   **Telegram:** [@v1nches](https://t.me/v1nches)
+*   **Email:** [ivan.platonychev@math.msu.ru](mailto:ivan.platonychev@math.msu.ru)
 

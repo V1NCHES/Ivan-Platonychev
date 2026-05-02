@@ -24,7 +24,7 @@
 ---
 
 ### 📈 Статистика GitHub
-![Ivan's GitHub stats](https://github-readme-stats.vercel.app/api?username=V1NCHES&show_icons=true&theme=radical)
+%![Ivan's GitHub stats](https://github-readme-stats.vercel.app/api?username=V1NCHES&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=V1NCHES&layout=compact&theme=radical)
 
 ---

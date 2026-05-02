@@ -1,7 +1,7 @@
 # Привет, я Иван! 👋
 
 ### 🎓 О себе
-*   **Студент Мехмата МГУ** (Кафедра газовой и волновой динамики / МСС).
+*   **Студент Мехмата МГУ** (Кафедра газовой и волновой динамики).
 *   **Специализация:** Machine Learning, Data Science, Математическое моделирование.
 *   **Интересы:** Нейротехнологии, алгоритмы и оптимизация.
 
@@ -24,7 +24,6 @@
 ---
 
 ### 📈 Статистика GitHub
-%![Ivan's GitHub stats](https://github-readme-stats.vercel.app/api?username=V1NCHES&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=V1NCHES&layout=compact&theme=radical)
 
 ---
